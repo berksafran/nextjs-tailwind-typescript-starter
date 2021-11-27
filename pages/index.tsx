@@ -17,6 +17,11 @@ const Home: NextPage = () => {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
+        <h1 className="text-2xl text-red-500
+        ">
+          Tailwind...
+        </h1>
+
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.tsx</code>
